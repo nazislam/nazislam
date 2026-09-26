@@ -2,10 +2,10 @@
 <h3 align="center">AI Engineer · Building agentic systems · Teaching what I learn</h3>
 
 <p align="center">
-  <a href="https://buildagentflow.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-Agentic%20Flow-4A90E2?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
-  <a href="https://www.linkedin.com/in/islamnaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/naz__islam" target="_blank"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@naz-islam" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://buildagentflow.com/"><img src="https://img.shields.io/badge/Blog-Agentic%20Flow-4A90E2?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/islamnaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/naz__islam"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@naz-islam"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
